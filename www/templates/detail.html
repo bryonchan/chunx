@@ -1,6 +1,6 @@
-<ion-view title="Content">
-<ion-content padding="true">
-
-	<p>{{book.content}}</p>
-</ion-content>
+<ion-view>
+	<ion-content padding="true">
+		
+		<p style="font-size: {{10+(fontSize/10)}}px;line-height: {{14+(fontSize/10)}}px;" ng-repeat="chunk in chunks">{{chunk.content}}</p>
+	</ion-content>
 </ion-view>

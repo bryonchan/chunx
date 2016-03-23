@@ -3,6 +3,6 @@
   </ion-header-bar>
 <ion-content>
 	<ion-list>
-		<ion-item ng-repeat="book in bookList">{{book.title}}</ion-item>
+		<ion-item ng-repeat="book in bookList" href="#/details/{{book._id}}">{{book.title}}</ion-item>
 	</ion-list>
 </ion-content>

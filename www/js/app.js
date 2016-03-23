@@ -32,7 +32,8 @@ angular.module('starter', ['ionic', 'bookResources'])
   .state('details', {
       abstract: true,
       url: '/details',
-      templateUrl: 'templates/news.html'
+      templateUrl: 'templates/reader.html',
+      controller: 'ReaderController'
     })
     .state('details.detail', {
       url: '/:bookid',
