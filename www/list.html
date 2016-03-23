@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width">
+    <title></title>
+
+    <link href="lib/ionic/css/ionic.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+
+    <!-- IF using Sass (run gulp sass first), then uncomment below and remove the CSS includes above
+    <link href="css/ionic.app.css" rel="stylesheet">
+    -->
+
+    <!-- ionic/angularjs js -->
+    <script src="lib/ionic/js/ionic.bundle.js"></script>
+	<script src="lib/ionic/js/angular/angular-resource.js"></script>
+
+    <!-- cordova script (this will be a 404 during development) -->
+    <script src="cordova.js"></script>
+
+    <!-- your app's js -->
+
+    <script src="js/app.js"></script>
+    <script src="js/bookResources.js"></script>  
+    <script src="js/chunk.js"></script>
+    <script src="js/mainController.js"></script>
+    <script src="js/listController.js"></script>
+    <script src="js/chunkListController.js"></script>
+    <script src="js/book.js"></script>
+    <script src="js/user.js"></script>
+  </head>
+  <body ng-app="starter">
+
+    <ion-pane ng-controller="MainController">
+      <ion-header-bar class="bar-stable">
+        <h1 class="title">List of books</h1>
+      </ion-header-bar>
+      <ion-content>
+      	<h1>Books</h1>
+        <div ng-controller="ListController">
+          <ol>
+          	<li ng-repeat="book in books">
+          		<a ng-href="/#/details/{{book._id}}">{{book.title}}</a>
+          		<button ng-click="subscribe(book, currentUser)">Subscribe</button>
+          		<button ng-click="deleteBook(book)">Delete</button>
+          	</li>
+          </ol>
+        </div>
+        <h1>Chunks</h1>
+        <div ng-controller="ChunkListController">
+          <ol>
+          	<li ng-repeat="chunk in chunks">
+          		<a ng-href="/#/details/{{chunk._id}}">{{chunk.bookId}}</a>
+          		<button ng-click="deleteChunk(chunk)">Delete</button>
+          	</li>
+          </ol>
+        </div>
+      </ion-content>
+    </ion-pane>
+  </body>
+</html>

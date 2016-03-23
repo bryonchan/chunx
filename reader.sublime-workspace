@@ -1,0 +1,1548 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"book",
+				"bookResourceHelpers"
+			],
+			[
+				"$provide",
+				"$provide	AngularJS"
+			],
+			[
+				"books",
+				"booksServerUrl"
+			],
+			[
+				"$htp",
+				"$httpBackend	AngularJS"
+			],
+			[
+				"$htt",
+				"$httpBackend	AngularJS(DI)"
+			],
+			[
+				"$httpB",
+				"$httpBackend	AngularJS"
+			],
+			[
+				"use",
+				"userId"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"ng",
+				"ng-select	AngularJS"
+			],
+			[
+				"ion",
+				"ion-side-menus"
+			],
+			[
+				"ng-re",
+				"ng-repeat	AngularJS"
+			],
+			[
+				"ng-te",
+				"ng-textarea	AngularJS"
+			],
+			[
+				"text",
+				"ng-textarea	AngularJS"
+			],
+			[
+				"mo",
+				"mongodb"
+			],
+			[
+				"re",
+				"render"
+			],
+			[
+				"egn",
+				"engines"
+			],
+			[
+				"mongo",
+				"MongoClient"
+			],
+			[
+				"_",
+				"_$controller_"
+			],
+			[
+				"con",
+				"controller	AngularJS"
+			],
+			[
+				"bower",
+				"bower_components"
+			],
+			[
+				"pa",
+				"pageMode"
+			],
+			[
+				"post",
+				"postDataOrSnapshot"
+			],
+			[
+				"pos",
+				"postDataOrSnapshot"
+			],
+			[
+				"postDataO",
+				"postDataOrSnapshot"
+			],
+			[
+				"defe",
+				"deferred"
+			],
+			[
+				"def",
+				"deferred"
+			],
+			[
+				"Moc",
+				"MockFirebase"
+			],
+			[
+				"mod",
+				"verbose_module	AngularJS"
+			],
+			[
+				"ng-bin",
+				"ng-bind-html	AngularJS"
+			],
+			[
+				"ng-sw",
+				"ng-switch-default	AngularJS"
+			],
+			[
+				"newRe",
+				"newRefName"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"prot",
+				"prototype"
+			],
+			[
+				"tp",
+				"tmpArray"
+			],
+			[
+				"$roo",
+				"$rootScope	AngularJS"
+			],
+			[
+				"$root",
+				"$rootScope	AngularJS(DI)"
+			],
+			[
+				"new",
+				"newPost"
+			],
+			[
+				"blog",
+				"blogFirebaseRef"
+			],
+			[
+				"ng-cl",
+				"ng-click	AngularJS"
+			],
+			[
+				"blo",
+				"blogFirebaseRef"
+			],
+			[
+				"fire",
+				"fireBaseUrl"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"$lo",
+				"$log	AngularJS(DI)"
+			],
+			[
+				"$sc",
+				"$scope	AngularJS"
+			],
+			[
+				"twitter",
+				"twitterService"
+			],
+			[
+				"sta",
+				"stateMock"
+			],
+			[
+				"dinn",
+				"dinnerServiceMock"
+			],
+			[
+				"parma",
+				"paramIndex"
+			],
+			[
+				"param",
+				"paramNames"
+			],
+			[
+				"gDrive",
+				"googleDrive"
+			],
+			[
+				"cn",
+				"controller"
+			],
+			[
+				"tw",
+				"twitterService"
+			],
+			[
+				"twit",
+				"twitterService"
+			],
+			[
+				"fil",
+				"filteredList"
+			],
+			[
+				"tod",
+				"todosInStore"
+			],
+			[
+				"fetc",
+				"fetchResults"
+			],
+			[
+				"aris",
+				"arisTeamEmailAddress"
+			],
+			[
+				"hide",
+				"hideActionButtons"
+			],
+			[
+				"Functiona",
+				"FunctionalAdminGroup"
+			],
+			[
+				"_se",
+				"_sendRequestCompletedEmail"
+			],
+			[
+				"Ars",
+				"ArisProcessMapLink"
+			],
+			[
+				"ren",
+				"renderDataTable"
+			],
+			[
+				"Related",
+				"RelatedWorkingDocument"
+			],
+			[
+				"Con",
+				"ContentTypeId"
+			],
+			[
+				"Conent",
+				"ContentType"
+			],
+			[
+				"content",
+				"ContentDocument"
+			],
+			[
+				"doc",
+				"docPromise"
+			],
+			[
+				"ari",
+				"arisTeamSettingPromise"
+			],
+			[
+				"prmo",
+				"promise"
+			],
+			[
+				"requ",
+				"requestItem"
+			],
+			[
+				"create",
+				"createPromise"
+			],
+			[
+				"Docu",
+				"DOcumentContentOwner"
+			],
+			[
+				"Content",
+				"ContentType"
+			],
+			[
+				"A",
+				"ArisProcessRequested"
+			],
+			[
+				"show",
+				"show_versions"
+			],
+			[
+				"sub",
+				"subTypeValue"
+			],
+			[
+				"typeCon",
+				"typeConstructor"
+			],
+			[
+				"su",
+				"subType"
+			],
+			[
+				"DocumentTy",
+				"DocumentTypeSelector"
+			],
+			[
+				"Sub",
+				"SubTypes"
+			],
+			[
+				"matc",
+				"matchingModel"
+			],
+			[
+				"file",
+				"filteredItems"
+			],
+			[
+				"filter",
+				"filterFunction"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"Polic",
+				"PolicyDocument"
+			],
+			[
+				"input",
+				"inputVal"
+			],
+			[
+				"model",
+				"modelConstructor"
+			],
+			[
+				"findAll",
+				"findAllTranslations"
+			],
+			[
+				"Docume",
+				"DocumentType"
+			],
+			[
+				"attr",
+				"attrsObj"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "www/js/user.js",
+			"settings":
+			{
+				"buffer_size": 652,
+				"line_ending": "Windows",
+				"name": "User.js"
+			}
+		},
+		{
+			"file": "www/js/readingListController.js",
+			"settings":
+			{
+				"buffer_size": 573,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "test/user.spec.js",
+			"settings":
+			{
+				"buffer_size": 1529,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "www/js/book.js",
+			"settings":
+			{
+				"buffer_size": 537,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "www/templates/list.html",
+			"settings":
+			{
+				"buffer_size": 217,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "www/js/listController.js",
+			"settings":
+			{
+				"buffer_size": 750,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 490.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 648.0
+	},
+	"console":
+	{
+		"height": 144.0,
+		"history":
+		[
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Bryon/Work/ionic/reader",
+		"/C/Users/Bryon/Work/ionic/reader/test",
+		"/C/Users/Bryon/Work/ionic/reader/www",
+		"/C/Users/Bryon/Work/ionic/reader/www/js",
+		"/C/Users/Bryon/Work/ionic/reader/www/lib/ionic/js",
+		"/C/Users/Bryon/Work/ionic/reader/www/lib/ionic/js/angular",
+		"/C/Users/Bryon/Work/ionic/reader/www/templates",
+		"/C/Users/Bryon/Work/ionic/reader-backend/views"
+	],
+	"file_history":
+	[
+		"/C/Users/Bryon/Work/ionic/reader/www/index.html",
+		"/C/Users/Bryon/Work/ionic/reader/www/templates/list.html",
+		"/C/Users/Bryon/Work/ionic/reader/www/js/mainController.js",
+		"/C/Users/Bryon/Work/ionic/reader/www/js/listController.js",
+		"/C/Users/Bryon/Work/ionic/reader/www/js/readingListController.js",
+		"/C/Users/Bryon/Work/ionic/reader/www/lib/ionic/js/ionic.bundle.js",
+		"/C/Users/Bryon/Work/ionic/reader/www/js/book.js",
+		"/C/Users/Bryon/Work/ionic/reader/test/user.spec.js",
+		"/C/Users/Bryon/Work/ionic/reader/www/js/bookResources.js",
+		"/C/Users/Bryon/Work/ionic/reader/www/list.html",
+		"/C/Users/Bryon/Work/ionic/reader/README.md",
+		"/C/Users/Bryon/Work/ionic/reader/www/js/app.js",
+		"/C/Users/Bryon/Work/ionic/reader/www/js/detailController.js",
+		"/C/Users/Bryon/Work/ionic/reader/www/templates/news.html",
+		"/C/Users/Bryon/Work/ionic/reader/www/templates/detail.html",
+		"/C/Users/Bryon/Work/ionic/reader/www/admin.html",
+		"/C/Users/Bryon/Work/ionic/reader/www/chunkAdmin.html",
+		"/C/Users/Bryon/Work/ionic/reader/www/js/chunkAdminController.js",
+		"/C/Users/Bryon/Work/ionic/reader/test/karma.conf.js",
+		"/C/Users/Bryon/Work/ionic/reader/www/js/adminController.js",
+		"/C/Users/Bryon/Work/ionic/reader/www/js/readerController.js",
+		"/C/Users/Bryon/Work/ionic/reader/www/books/h1.json",
+		"/C/Users/Bryon/Work/ionic/reader-backend/package.json",
+		"/C/Users/Bryon/Work/ionic/reader-backend/views/view.html",
+		"/C/Users/Bryon/Work/ionic/reader/www/books/h2.json",
+		"/C/Users/Bryon/Work/ionic/reader/www/lib/ionic/js/angular/angular-resource.js",
+		"/C/Users/Bryon/Work/ionic/reader/www/js/chunk.js",
+		"/C/Users/Bryon/Work/ionic/reader/test/readerController.spec.js",
+		"/C/Users/Bryon/Work/ionic/reader/www/js/chunkListController.js",
+		"/C/Users/Bryon/Work/ionic/reader/www/js/Chunk.js",
+		"/C/Users/Bryon/Work/ionic/reader-backend/app.js",
+		"/C/Users/Bryon/Work/ionic/reader/package.json",
+		"/C/Users/Bryon/Work/ionic/reader/bower.json",
+		"/C/Users/Bryon/Work/ionic/reader/books/h1.json",
+		"/C/Users/Bryon/Work/ionic/reader/`README.md",
+		"/C/Users/Bryon/Work/webdotnet.uk/node_modules/.bin/karma",
+		"/C/Users/Bryon/Work/webdotnet.uk/app/scripts/app.js",
+		"/C/Users/Bryon/Work/webdotnet.uk/app/views/main.html",
+		"/C/Users/Bryon/Work/www/index.html",
+		"/C/Users/Bryon/Work/webdotnet.uk/app/scripts/controllers/editor.js",
+		"/C/Users/Bryon/Work/webdotnet.uk/test/spec/controllers/main.js",
+		"/C/Users/Bryon/Work/webdotnet.uk/Gruntfile.js",
+		"/C/Users/Bryon/Work/webdotnet.uk/test/spec/controllers/blogController.spec.js",
+		"/C/Users/Bryon/Work/webdotnet.uk/app/scripts/controllers/post.js",
+		"/C/Users/Bryon/Work/webdotnet.uk/app/scripts/controllers/main.js",
+		"/C/Users/Bryon/Work/webdotnet.uk/app/index.html",
+		"/C/Users/Bryon/Work/webdotnet.uk/dist/index.html",
+		"/C/Users/Bryon/Work/webdotnet.uk/bower_components/ckeditor/ckeditor.js",
+		"/C/Users/Bryon/Work/webdotnet.uk/bower.json",
+		"/C/Users/Bryon/Work/webdotnet.uk/test/spec/controllers/post.spec.js",
+		"/C/Users/Bryon/Work/webdotnet.uk/test/lib/module.testutils.js",
+		"/C/Users/Bryon/Work/webdotnet.uk/test/karma.conf.js",
+		"/C/Users/Bryon/Work/webdotnet.uk/app/plugins/blog.js",
+		"/C/Users/Bryon/Work/webdotnet.uk/app/scripts/controllers/blog.js",
+		"/C/Users/Bryon/Work/webdotnet.uk/app/scripts/directives/blog_list.js",
+		"/C/Users/Bryon/Work/webdotnet.uk/test/lib/jasmineMatchers.js",
+		"/C/Users/Bryon/Work/webdotnet.uk/package.json",
+		"/C/Users/Bryon/Work/webdotnet.uk/test/spec/controllers/test.spec.js",
+		"/C/Users/Bryon/Work/webdotnet.uk/app/scripts/controllers/firebaseService.js",
+		"/C/Users/Bryon/Work/webdotnet.uk/app/scripts/controllers/angular-firebase.js",
+		"/C/Users/Bryon/Work/ionic/LostAndFound/www/js/twitterApp.js",
+		"/C/Users/Bryon/Work/ionic/LostAndFound/www/lib/angular-mocks/angular-mocks.js",
+		"/C/Users/Bryon/Work/ionic-tutorial-dinnerapp/tests/unit-tests.conf.js",
+		"/C/Users/Bryon/Work/ionic-tutorial-dinnerapp/tests/unit-tests/login.controller.tests.js",
+		"/C/Users/Bryon/Work/ionic/LostAndFound/www/tests/utils.test.js",
+		"/C/Users/Bryon/Work/ionic/LostAndFound/www/js/utils.js",
+		"/C/Users/Bryon/Work/ionic/LostAndFound/www/js/twitterServices.js",
+		"/C/Users/Bryon/Work/ionic/LostAndFound/www/js/twitterControllers.js",
+		"/C/Users/Bryon/Work/ionic/LostAndFound/Readme.md",
+		"/C/Users/Bryon/Work/ionic/LostAndFound/www/index.html",
+		"/C/Users/Bryon/Work/ionic/LostAndFound/www/tests/service.test.js",
+		"/C/Users/Bryon/Work/ionic/LostAndFound/www/tests/first_test.js",
+		"/C/Users/Bryon/Work/ionic/LostAndFound/www/tests/unit-tests.conf.js",
+		"/C/Users/Bryon/Work/ionic-tutorial-dinnerapp/node_modules/angular-mocks/angular-mocks.js",
+		"/C/Users/Bryon/Work/Angular/yeoman/mytodo/Gruntfile.js",
+		"/C/Users/Bryon/Work/webdotnet.uk/dist/scripts/scripts.48ab897a.js",
+		"/C/Users/Bryon/Google Drive/webdotnet.uk/scripts/app.js",
+		"/C/Users/Bryon/Work/ionic/hardwareiq/hardwareiq/package.json",
+		"/C/Users/Bryon/Work/ionic/hardwareiq/hardwareiq/www/js/services.js",
+		"/C/Users/Bryon/Work/ionic/hardwareiq/hardwareiq/www/templates/tabs.html",
+		"/C/Users/Bryon/Work/ionic/LostAndFound/www/templates/tabs.html",
+		"/C/Users/Bryon/Work/Angular/angular-phonecat/app/index.html",
+		"/C/Users/Bryon/Work/Angular/angular-phonecat/Gruntfile.js",
+		"/C/Users/Bryon/Work/ionic/LostAndFound/platforms/android/assets/www/index.html",
+		"/C/Users/Bryon/Work/Angular/yeoman/mytodo/package.json",
+		"/C/Users/Bryon/Work/ionic/LostAndFound/www/js/script1.js",
+		"/C/Users/Bryon/Google Drive/webdotnet.uk/script.js",
+		"/C/Users/Bryon/Google Drive/webdotnet.uk/index.html",
+		"/C/Users/Bryon/Work/Angular/angular-phonecat/test/unit/controllersSpec.js",
+		"/C/Users/Bryon/Work/ionic/LostAndFound/www/js/tests/first_test.js",
+		"/C/Users/Bryon/Work/ionic/LostAndFound/www/js/tests/unit-tests.conf.js",
+		"/C/Users/Bryon/Work/ionic/LostAndFound/www/tabs.html",
+		"/C/Users/Bryon/Work/ionic/LostAndFound/www/css/style.css",
+		"/C/Users/Bryon/Work/ionic/LostAndFound/www/lib/oauth-js/dist/oauth.js",
+		"/C/Users/Bryon/Work/ionic/LostAndFound/node_modules/phantomjs-prebuilt/lib/phantomjs.js",
+		"/C/Users/Bryon/Work/ionic/LostAndFound/platforms/android/assets/www/lib/angular-mocks/angular-mocks.js",
+		"/C/Users/Bryon/Work/ionic/LostAndFound/node_modules/karma-phantomjs-launcher/karma.conf.js",
+		"/C/Users/Bryon/Work/ionic/LostAndFound/node_modules/karma-phantomjs-launcher/node_modules/grunt-karma/karma.conf.js",
+		"/C/Users/Bryon/Work/ionic/PlainTabs/package.json",
+		"/C/Users/Bryon/Work/ionic/PlainTabs/www/js/tests/first-test.js",
+		"/C/Users/Bryon/Work/ionic/PlainTabs/www/js/tests/unit-tests.conf.js",
+		"/C/Users/Bryon/Work/ionic/LostAndFound/package.json",
+		"/C/Users/Bryon/Work/ionic/LostAndFound/www/js/tests/karma.conf.js",
+		"/C/Users/Bryon/Work/ionic/LostAndFound/node_modules/karma/lib/launchers/process.js",
+		"/C/Users/Bryon/Work/ionic/LostAndFound/node_modules/karma/lib/launcher.js",
+		"/C/Users/Bryon/Work/ionic/LostAndFound/node_modules/karma/lib/launchers/capture_timeout.js",
+		"/C/Users/Bryon/Work/ionic/LostAndFound/node_modules/karma/lib/config.js",
+		"/C/Users/Bryon/Downloads/Bounce9780061991394.acsm",
+		"/C/Users/Bryon/Work/ionic/LostAndFound/node_modules/karma-phantomjs-launcher/index.js",
+		"/C/Users/Bryon/Work/ionic/LostAndFound/.gitignore",
+		"/C/Users/Bryon/Work/ionic/LostAndFound/bower.json",
+		"/C/Users/Bryon/Work/ionic/LostAndFound/www/js/twitterServicesTest.js",
+		"/E/setupact.log",
+		"/E/setuperr.log",
+		"/C/Users/Bryon/Work/nodeschool/10/program.js",
+		"/C/Users/Bryon/Work/nodeschool/13/program.js",
+		"/C/Users/Bryon/Work/nodeschool/12/program.js",
+		"/C/Users/Bryon/Work/nodeschool/11/program.js",
+		"/C/Users/Bryon/Work/nodeschool/9/program.js",
+		"/C/Users/Bryon/Work/nodeschool/scope-chains-closures/program.js",
+		"/C/Users/Bryon/Work/Angular/yeoman/mytodo/app/index.html",
+		"/C/Users/Bryon/Work/nodeschool/program.js",
+		"/C/Users/Bryon/Work/nodeschool/3/program.js",
+		"/C/Users/Bryon/Work/nodeschool/4/program.js",
+		"/C/Users/Bryon/Work/nodeschool/5/program.js",
+		"/C/Users/Bryon/Work/nodeschool/6/mymodule.js",
+		"/C/Users/Bryon/Work/nodeschool/7/program.js",
+		"/C/Users/Bryon/Work/nodeschool/8/program.js"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 138.0,
+		"where_history":
+		[
+			"*.aspx, *.ejs, *.js, *.less",
+			"*.aspx, *.ejs, *.js",
+			"*.aspx, *.ejs, *.js, *.less",
+			"*.aspx, *ejs, *.js, *.less",
+			"*.aspx",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"toJson",
+			"\"b1234\"",
+			"\"Bryon\"",
+			"$provider",
+			"_User_",
+			"resourceFactory",
+			"$ionicScrollDelegate",
+			"books",
+			"Book",
+			"book",
+			"Book",
+			"data",
+			".user",
+			"books",
+			"Book",
+			"book",
+			"Book",
+			"$scope",
+			"details",
+			"ng-",
+			"nav-",
+			"-scroll",
+			"250px",
+			"-content",
+			"$location",
+			"p",
+			"span",
+			"h1",
+			"news",
+			"\n",
+			"\n\n",
+			"\n",
+			"\n\n",
+			"\n",
+			"\\\\n",
+			"\n",
+			"\"",
+			"filerev",
+			"CKEDITOR_BASEPATH",
+			"$route",
+			"this",
+			"ServerObject",
+			"serverObject",
+			"whiteSpy",
+			"resolved",
+			"delete",
+			"window",
+			"\"",
+			"div",
+			"myDataRef",
+			"angular-",
+			"touch",
+			"\"",
+			"$",
+			"module",
+			"q",
+			"query",
+			"debugInfo",
+			"clean",
+			"imagemin",
+			"build",
+			"usemin",
+			"uglif",
+			"5000",
+			"ENV_CMD",
+			"_execCommand",
+			"No binary",
+			"60000",
+			"CaptureTimeoutLauncher",
+			"have not captured",
+			"60000ms",
+			"Starting browser",
+			"Starting broweser",
+			"Starting browser",
+			"phantomJSExePath",
+			"twitterService",
+			"$q",
+			"lightbulb",
+			"partition",
+			"localStorageService",
+			"onFiltersLoad",
+			"DocumentReferenceSearch",
+			"DocumentReference",
+			"now open",
+			"ArisTeamEmailAddress",
+			"\\",
+			"email",
+			"imsportal",
+			"imscontentautomation",
+			"uildAutomation",
+			"Approval Rejected",
+			"CloseNotificationSent",
+			"toggle_processing",
+			"Approval Rejected Notification",
+			"25",
+			"Author",
+			"document-view",
+			"btn ",
+			"pull-right ",
+			"item",
+			"<%= %>",
+			"<%= $.Site.SiteUrl + \"/Pages/Consultation.aspx?consultation=\" + doc.attr(\"ID\") %>",
+			"consultation",
+			"item",
+			"Created",
+			"RelatedWorkingDocument",
+			"RelatedFunctions",
+			"activation_requests",
+			"consultation approvals",
+			"content activation requests",
+			"toggle_processing",
+			"render_functional_filters",
+			"reference_b",
+			"lookup_to_str",
+			"SendEmail",
+			"arisTeamEmailAddress",
+			"delete-item",
+			"request",
+			"bDestroy",
+			"destroy",
+			"this",
+			"endsWith",
+			"change",
+			"DocumentView",
+			"document-view",
+			"OrderBy",
+			"ID",
+			"DocumentAuthor"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" ",
+			"\\n",
+			"\\n\\r",
+			"",
+			"\\n",
+			"",
+			"\\n",
+			"\\\\n",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "www/js/user.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 652,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								652,
+								652
+							]
+						],
+						"settings":
+						{
+							"auto_name": "User.js",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "www/js/readingListController.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 573,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								375,
+								375
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "test/user.spec.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1529,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1481,
+								1481
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": -0.0,
+						"translation.y": 228.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "www/js/book.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 537,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								478,
+								478
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "www/templates/list.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 217,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								217,
+								217
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "www/js/listController.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 750,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								415,
+								415
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "reader.sublime-project",
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"boo",
+				"reader\\www\\js\\book.js"
+			],
+			[
+				"us",
+				"reader\\test\\user.spec.js"
+			],
+			[
+				"ionic.bu",
+				"reader\\www\\lib\\ionic\\js\\ionic.bundle.js"
+			],
+			[
+				"br",
+				"reader\\www\\js\\bookResources.js"
+			],
+			[
+				"usj",
+				"reader\\test\\user.spec.js"
+			],
+			[
+				"use",
+				"reader\\www\\js\\User.js"
+			],
+			[
+				"ar",
+				"reader\\www\\lib\\ionic\\js\\angular\\angular-resource.js"
+			],
+			[
+				"mc",
+				"reader\\www\\js\\mainController.js"
+			],
+			[
+				"lc",
+				"reader\\www\\js\\listController.js"
+			],
+			[
+				"read",
+				"reader\\README.md"
+			],
+			[
+				"rc",
+				"reader\\www\\js\\readerController.js"
+			],
+			[
+				"angular-res",
+				"reader\\www\\lib\\ionic\\js\\angular\\angular-resource.js"
+			],
+			[
+				"ac",
+				"reader\\www\\js\\adminController.js"
+			],
+			[
+				"kar",
+				"test\\karma.conf.js"
+			],
+			[
+				"ckedi",
+				"webdotnet.uk\\bower_components\\ckeditor\\ckeditor.js"
+			],
+			[
+				"pos",
+				"app\\scripts\\controllers\\post.js"
+			],
+			[
+				"main.js",
+				"app\\scripts\\controllers\\main.js"
+			],
+			[
+				"grunt",
+				"Gruntfile.js"
+			],
+			[
+				"ma",
+				"app\\scripts\\controllers\\main.js"
+			],
+			[
+				"karma.c",
+				"test\\karma.conf.js"
+			],
+			[
+				"karma",
+				"node_modules\\.bin\\karma"
+			],
+			[
+				"mai",
+				"app\\scripts\\controllers\\main.js"
+			],
+			[
+				"post.",
+				"app\\scripts\\controllers\\post.js"
+			],
+			[
+				"app",
+				"app\\scripts\\app.js"
+			],
+			[
+				"main",
+				"app\\scripts\\controllers\\main.js"
+			],
+			[
+				"angular-mocks",
+				"LostAndFound\\www\\lib\\angular-mocks\\angular-mocks.js"
+			],
+			[
+				"angular-mc",
+				"www\\lib\\angular-mocks\\angular-mocks.js"
+			],
+			[
+				"firs",
+				"www\\js\\tests\\first_test.js"
+			],
+			[
+				"utc",
+				"www\\js\\tests\\unit-tests.conf.js"
+			],
+			[
+				"unit-t",
+				"www\\js\\tests\\unit-tests.conf.js"
+			],
+			[
+				"karma.conf",
+				"node_modules\\karma-phantomjs-launcher\\node_modules\\grunt-karma\\karma.conf.js"
+			],
+			[
+				"karma.conf.js",
+				"node_modules\\karma-phantomjs-launcher\\karma.conf.js"
+			],
+			[
+				"karma.con",
+				"www\\js\\tests\\karma.conf.js"
+			],
+			[
+				"unit-tes",
+				"www\\js\\tests\\unit-tests.conf.js"
+			],
+			[
+				"oaut",
+				"www\\lib\\oauth-js\\dist\\oauth.js"
+			],
+			[
+				"angular-lo",
+				"bower_components\\angular-local-storage\\dist\\angular-local-storage.js"
+			],
+			[
+				"app.js",
+				"app\\scripts\\app.js"
+			],
+			[
+				"index",
+				"app\\index.html"
+			],
+			[
+				"sort",
+				"bower_components\\angular-ui-sortable\\sortable.js"
+			],
+			[
+				"app.",
+				"app\\scripts\\app.js"
+			],
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				"filters",
+				"Sysdoc\\imsportal\\controllers\\filters_container\\filters_container.js"
+			],
+			[
+				"drs",
+				"Sysdoc\\imscontentautomation\\controllers\\document_reference_search\\document_reference_search.js"
+			],
+			[
+				"free",
+				"Sysdoc\\imsportal\\controllers\\freetext_filter\\freetext_filter.js"
+			],
+			[
+				"fc",
+				"Sysdoc\\imsportal\\controllers\\filters_container\\filters_container.js"
+			],
+			[
+				"trans_t",
+				"Sysdoc\\imscontentautomation\\controllers\\translations_table\\translations_table.js"
+			],
+			[
+				"translations",
+				"Sysdoc\\imscontentautomation\\controllers\\document_translations_table\\views\\translations.ejs"
+			],
+			[
+				"consulta",
+				"Sysdoc\\imscontentautomation\\controllers\\consultation\\consultation.js"
+			],
+			[
+				"kw_p",
+				"Sysdoc\\imscontentautomation\\controllers\\kw_process\\kw_process.js"
+			],
+			[
+				"kw_pro",
+				"Sysdoc\\imscontentautomation\\controllers\\kw_processes\\kw_processes.js"
+			],
+			[
+				"art",
+				"Sysdoc\\imscontentautomation\\controllers\\aris_requests\\aris_requests_table.js"
+			],
+			[
+				"aris",
+				"Sysdoc\\imscontentautomation\\controllers\\aris_requests\\aris_requests.js"
+			],
+			[
+				"d_v",
+				"Sysdoc\\imscontentautomation\\controllers\\document_view\\document_view.js"
+			],
+			[
+				"sett",
+				"Sysdoc\\imsportal\\models\\setting.js"
+			],
+			[
+				"ari",
+				"Sysdoc\\imscontentautomation\\models\\aris_request_item.js"
+			],
+			[
+				"arequests",
+				"Sysdoc\\imscontentautomation\\controllers\\aris_requests\\aris_requests.js"
+			],
+			[
+				"tod",
+				"Sysdoc\\imscontentautomation\\todo.txt"
+			],
+			[
+				"conten",
+				"Sysdoc\\imscontentautomation\\models\\content_document.js"
+			],
+			[
+				"working",
+				"Sysdoc\\imscontentautomation\\models\\workinginstruction.js"
+			],
+			[
+				"content",
+				"Sysdoc\\imscontentautomation\\models\\content_document.js"
+			],
+			[
+				"cr_d",
+				"Sysdoc\\imscontentautomation\\controllers\\create_document\\create_document.js"
+			],
+			[
+				"todo",
+				"Sysdoc\\imscontentautomation\\todo.txt"
+			],
+			[
+				"default_",
+				"Sysdoc\\imscontentautomation\\controllers\\consultation\\views\\default_full.ejs"
+			],
+			[
+				"",
+				"Sysdoc\\imscontentautomation\\controllers\\consultation_approvals\\consultation_approvals.js"
+			],
+			[
+				"cons",
+				"Sysdoc\\imscontentautomation\\models\\consultation_item.js"
+			],
+			[
+				"con_app",
+				"Sysdoc\\imscontentautomation\\controllers\\consultation_approvals\\consultation_approvals.js"
+			],
+			[
+				"consu",
+				"Sysdoc\\imscontentautomation\\controllers\\consultation\\consultation.js"
+			],
+			[
+				"consul",
+				"Sysdoc\\imscontentautomation\\controllers\\consultation\\consultation.js"
+			],
+			[
+				"consultation",
+				"Sysdoc\\imscontentautomation\\models\\consultation_item.js"
+			],
+			[
+				"consula",
+				"Sysdoc\\imscontentautomation\\models\\consultation_item.js"
+			],
+			[
+				"func",
+				"Sysdoc\\imscontentautomation\\controllers\\functional_dashboard\\functional_dashboard.js"
+			],
+			[
+				"cc",
+				"Sysdoc\\imscontentautomation\\controllers\\content_creation\\content_creation.js"
+			],
+			[
+				"mmp",
+				"Sysdoc\\imscontentautomation\\controllers\\manage_metadata_permissions\\manage_metadata_permissions.js"
+			],
+			[
+				"con",
+				"Sysdoc\\imscontentautomation\\models\\content_activation.js"
+			],
+			[
+				"function",
+				"Sysdoc\\imscontentautomation\\controllers\\functional_dashboard\\functional_dashboard.js"
+			],
+			[
+				"consultationdefault.ejs",
+				"Sysdoc\\imscontentautomation\\controllers\\consultation\\views\\default.ejs"
+			],
+			[
+				"extra.ejs",
+				"Sysdoc\\imscontentautomation\\controllers\\kw_process\\views\\extra.ejs"
+			],
+			[
+				"conf",
+				"Sysdoc\\imscontentautomation\\models\\config.js"
+			],
+			[
+				"conte",
+				"Sysdoc\\imscontentautomation\\models\\content_document.js"
+			],
+			[
+				"proce",
+				"Sysdoc\\imscontentautomation\\models\\processdocument.js"
+			],
+			[
+				"item",
+				"Sysdoc\\imsportal\\models\\item.js"
+			],
+			[
+				"email_tem",
+				"Sysdoc\\imscontentautomation\\email_templates\\aris_request.ejs"
+			],
+			[
+				"doc_vi",
+				"Sysdoc\\imscontentautomation\\controllers\\document_view\\document_view.js"
+			],
+			[
+				"data",
+				"Sysdoc\\imsportal\\plugins\\datatables\\datatables.js"
+			],
+			[
+				"con_dass",
+				"Sysdoc\\imscontentautomation\\controllers\\content_dashboard\\content_dashboard.js"
+			],
+			[
+				"cont_das",
+				"Sysdoc\\imscontentautomation\\controllers\\content_dashboard\\content_dashboard_table.js"
+			],
+			[
+				"dov",
+				"Sysdoc\\imscontentautomation\\controllers\\document_view\\document_view.js"
+			],
+			[
+				"aris_req",
+				"Sysdoc\\imscontentautomation\\controllers\\aris_requests\\aris_requests.js"
+			],
+			[
+				"dm",
+				"Sysdoc\\imscontentautomation\\controllers\\document_metadata\\document_metadata.js"
+			],
+			[
+				"pro_for",
+				"Sysdoc\\imscontentautomation\\controllers\\content_creation\\views\\procedure_form.ejs"
+			],
+			[
+				"doc_met",
+				"Sysdoc\\imscontentautomation\\controllers\\document_metadata\\document_metadata.js"
+			],
+			[
+				"layo",
+				"Sysdoc\\imscontentautomation\\controllers\\manage_metadata_permissions\\views\\layout.ejs"
+			],
+			[
+				"mmplayout",
+				"Sysdoc\\imscontentautomation\\controllers\\manage_metadata_permissions\\views\\layout.ejs"
+			],
+			[
+				"default_fo",
+				"Sysdoc\\imscontentautomation\\controllers\\manage_metadata_permissions\\views\\default_form.ejs"
+			],
+			[
+				"defa",
+				"Sysdoc\\imscontentautomation\\controllers\\consultation\\views\\default.ejs"
+			],
+			[
+				"arisre",
+				"Sysdoc\\imscontentautomation\\models\\aris_request_item.js"
+			],
+			[
+				"dash",
+				"PageLayouts\\IMS_content_dashboard.aspx"
+			],
+			[
+				"ims",
+				"Sysdoc\\imscontentautomation\\imscontentautomation.js"
+			],
+			[
+				"cont",
+				"Sysdoc\\imscontentautomation\\models\\content_document.js"
+			],
+			[
+				"proces",
+				"Sysdoc\\imscontentautomation\\models\\processdocument.js"
+			],
+			[
+				"ite",
+				"Sysdoc\\imsportal\\models\\item.js"
+			],
+			[
+				"cd",
+				"Sysdoc\\imscontentautomation\\models\\content_document.js"
+			],
+			[
+				"item.js",
+				"Sysdoc\\imsportal\\models\\item.js"
+			],
+			[
+				"imscon",
+				"Sysdoc\\imscontentautomation\\imscontentautomation.js"
+			],
+			[
+				"areq",
+				"Sysdoc\\imscontentautomation\\controllers\\aris_request\\aris_request.js"
+			],
+			[
+				"imsc",
+				"Sysdoc\\imscontentautomation\\imscontentautomation.js"
+			],
+			[
+				"arisr",
+				"Sysdoc\\imscontentautomation\\models\\aris_request_item.js"
+			],
+			[
+				"item.",
+				"Sysdoc\\imsportal\\models\\item.js"
+			],
+			[
+				"site.js",
+				"Sysdoc\\imsportal\\models\\site.js"
+			],
+			[
+				"proc",
+				"Sysdoc\\imscontentautomation\\models\\processdocument.js"
+			],
+			[
+				"process",
+				"Sysdoc\\imscontentautomation\\models\\processdocument.js"
+			],
+			[
+				"config",
+				"Sysdoc\\imscontentautomation\\models\\config.js"
+			],
+			[
+				"layout",
+				"Sysdoc\\imscontentautomation\\controllers\\aris_process_map_input_control\\views\\layout.ejs"
+			],
+			[
+				"cr",
+				"Sysdoc\\imscontentautomation\\controllers\\create_document\\create_document.js"
+			],
+			[
+				"content_das",
+				"Sysdoc\\imscontentautomation\\controllers\\content_dashboard\\content_dashboard.js"
+			],
+			[
+				"apmi",
+				"Sysdoc\\imscontentautomation\\controllers\\aris_process_map_input_control\\aris_process_map_input_control.js"
+			],
+			[
+				"apm",
+				"Sysdoc\\jmvc\\generate\\test\\app_plugin_model_controller.js"
+			],
+			[
+				"default",
+				"Sysdoc\\imscontentautomation\\controllers\\manage_metadata_permissions\\views\\default_form.ejs"
+			],
+			[
+				"default_f",
+				"Sysdoc\\imscontentautomation\\controllers\\content_creation\\views\\default_form.ejs"
+			],
+			[
+				"da",
+				"Sysdoc\\imscontentautomation\\controllers\\document_approval\\document_approval.js"
+			],
+			[
+				"table",
+				"Sysdoc\\imscontentautomation\\controllers\\content_dashboard\\views\\table_view.ejs"
+			],
+			[
+				"das",
+				"Sysdoc\\imscontentautomation\\models\\dashboard.js"
+			],
+			[
+				"approval",
+				"Sysdoc\\imscontentautomation\\controllers\\document_approval\\document_approval.js"
+			],
+			[
+				"pps",
+				"Sysdoc\\imsportal\\controllers\\pps_page\\pps_page.js"
+			],
+			[
+				"bppa",
+				"Sysdoc\\imsportal\\models\\bp_page.js"
+			],
+			[
+				"item_meta",
+				"Sysdoc\\imsportal\\controllers\\item_metadata_view\\item_metadata_view.js"
+			],
+			[
+				"pps_pa",
+				"Sysdoc\\imsportal\\controllers\\pps_page\\pps_page.js"
+			],
+			[
+				"to",
+				"Sysdoc\\imscontentautomation\\todo.txt"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Bryon\\Work\\webdotnet.uk\\webdotnet.uk.sublime-project"
+			]
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 369.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
